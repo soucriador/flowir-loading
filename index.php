@@ -2,7 +2,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Sou Criador</title>
+  <title>FLOWIR</title>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="sara mazal lessons">
@@ -22,7 +22,7 @@
 <body>
 <!-- partial:index.partial.html -->
 <sectio class="nav">
-  <h1>Sou Criador</h1>
+  <h1>FLOWIR</h1>
   <h3 class="span loader"><span class="m">S</span><span class="m">E</span><span class="m">&nbsp;</span><span class="m">A</span><span class="m">P</span><span class="m">A</span><span class="m">I</span><span class="m">X</span><span class="m">O</span><span class="m">N</span><span class="m">E</span><span class="m">&nbsp;</span><span class="m">P</span><span class="m">O</span><span class="m">R</span><span class="m">&nbsp;</span><span class="m">S</span><span class="m">E</span><span class="m">U</span><span class="m">&nbsp;</span><span class="m">P</span><span class="m"></span><span class="m">R</span><span class="m">O</span><span class="m">J</span><span class="m">E</span><span class="m">T</span><span class="m">O</span></h3>
   
 </sectio>
